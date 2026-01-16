@@ -24,5 +24,5 @@ while number_of_terms_generated < number_of_terms: #will generate terms until it
   number_of_terms_generated += 1 #increments the counter by one. 
 
  # 0, 1 --> 1, 1 --> 1, 2 --> 2, 3 --> 3, 5 --> 5, 8
- #print first_term: 0, 1, 1, 2, 3, 5
+ #print first_term: 0, 1, 1, 2, 3, 5 
   
